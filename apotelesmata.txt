@@ -1,0 +1,19 @@
+Το πρόγραμμα δεν εμφανίζει το μήνυμα που κάνει reset το Arduino.
+
+Green Light {477265656E204C69676874}		SNR: 8.5		RSSI: -109		Time: 21:19:51
+
+Red Light {526564204C69676874}			SNR: 7			RSSI: -111		Time: 21:20:26
+
+Green Light {477265656E204C69676874}		SNR: 4.8		RSSI: -108		Time: 21:21:02
+
+Red Light {526564204C69676874}			SNR: 8			RSSI: -109		Time: 21:21:38
+
+Green Light {477265656E204C69676874}		SNR: 8.5		RSSI: -111		Time: 21:22:13
+
+Red Light {526564204C69676874}			SNR: 7.2		RSSI: -109		Time: 21:22:43
+
+.						.			.			.
+.						.			.			.
+.						.			.			.
+.						.			.			.
+.						.			.			.
